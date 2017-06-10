@@ -1,0 +1,8 @@
+# Site settings
+title: BAD ACCENTS
+url: http://www.badaccents.xyz
+description: "A brand thinking studio built with people speaking many languages with an equal amount of strong accents. While our accents build empathy with others, the different languages help us build cultural meanings one brand at a time."
+
+# Build settings
+markdown: kramdown
+permalink: pretty
