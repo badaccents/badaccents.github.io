@@ -11,13 +11,6 @@ body {
     background-color: #f7f4ef;
 }
 
-hr {
-    margin-top: 20px;
-    margin-bottom: 10px;
-    border: 0;
-    border-top: 1px solid
-}
-
 h1,
 h2,
 h3,
@@ -28,6 +21,13 @@ h6 {
     text-transform: uppercase;
     font-weight: 700;
     letter-spacing: 1px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 0;
+    border-top: 1px solid
 }
 
 p {
@@ -86,9 +86,15 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #000;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+@media (min-width: 768px) {
+    .navbar-custom a {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 }
 
 .navbar-custom a:hover,
@@ -104,7 +110,7 @@ a:focus {
 }
 
 @media (min-width: 992px) {
-    .container{
+    .container {
         max-width: 970px;
     }
 
@@ -292,6 +298,36 @@ a:focus {
 .process-title {
     font-weight: 800;
     margin-bottom: 10px;
+}
+
+section.services {
+    margin-top: 40px;
+}
+
+@media (min-width: 768px) {
+    section.services {
+    margin-top: 60px;
+}
+}
+
+.services h2 {
+    font-size: 50px;
+    font-weight: 900;
+    margin: 0 0 40px;
+}
+
+@media (min-width: 768px) {
+    .services h2 {
+        text-align: center;
+    }
+}
+
+.services h3 {
+    color: #ff3333;
+    font-family: 'Covered By Your Grace', cursive;
+    margin: 0 0 5px;
+    font-weight: 700;
+    /*letter-spacing: 1px;*/
 }
 
 .content-section {
