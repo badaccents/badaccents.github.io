@@ -4,7 +4,7 @@ layout: post
 title:  "Dumpster Diving Preface"
 subtitle: "Reconciling lost raw enthusiasm"
 categories: dumpster-diving brand-thinking
-tags: 
+tags: reconciliation awareness truth
 img-small: dumpster-diving-preface-small.jpg
 img-large: dumpster-diving-preface-big.jpg
 
