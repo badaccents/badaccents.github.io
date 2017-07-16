@@ -7,3 +7,4 @@ description: "A brand thinking studio built with people speaking many languages 
 markdown: kramdown
 permalink: pretty
 excerpt_separator: <!--more-->
+future: true

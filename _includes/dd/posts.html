@@ -4,13 +4,13 @@
 			{% if post.ready %}
 				<div class="col-sm-4">
 					<a href="{{ post.url }}">
-						<img class="dd-post-img-small" src="/img/dd/{{ post.img-small }}">
 						<div class="dd-post-tags">
 							{{ post.categories[1] | replace: '-', ' ' }} | 
 							{% for tag in post.tags %}
 								{{ tag }}
 							{% endfor %}
 						</div>
+						<img class="dd-post-img-small" src="/img/dd/{{ post.img-small }}">
 						<h3>{{ post.title }}</h3>
 						<div class="dd-post-excerpt">{{ post.excerpt }}</div>
 					</a>
