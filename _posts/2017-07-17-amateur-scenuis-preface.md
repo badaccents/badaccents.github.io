@@ -8,7 +8,7 @@ tags: rsemiotics social-science humanities
 img-small: amateur-scenuis/amateur-scenuis-intro-small.jpg
 img-large: amateur-scenuis/amateur-scenuis-intro-big.jpg
 
-ready: false
+ready: true
 ---
 
 The fashion industry is vastly linked with fast consumable vanities, often analysed with commercial eyes and from a business standpoint. A curious search, however, would reveal an alternative telling story.
