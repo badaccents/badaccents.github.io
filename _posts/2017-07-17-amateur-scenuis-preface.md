@@ -27,7 +27,7 @@ Bad Accents mission is to build cultural meanings by revealing the essence of br
 
 From an emotional viewpoint, This raw enthusiasm where ghosts of past heroes are revisited and shared with like-minded knowledge gatherers is an invitation to embrace the ugly first draft with an anti-perfectionism mindset. A platform that faces the fear of sounding banal, elitist and, worst of all, opportunistic. It is built with ecstatic intuition and fine frenzy. No hero goes unnamed, each concept is contemplated, and all idols become a bit less mysterious every step of the way. This amateur scenius is built on the believe that you need to be interested in order to be interesting. And that the value of knowledge rests only in sharing.
 
-Well I met an old man dying on a train.
+Well I met an old man dying on a train.  
 No more destination, no more pain.
 Well he said one thing, before I graduate
 "Never let your fear decide your fate."
