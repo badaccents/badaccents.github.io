@@ -8,7 +8,7 @@ tags:
 img-small: dumpster-diving-preface-small.jpg
 img-large: dumpster-diving-preface-big.jpg
 
-ready: false
+ready: true
 ---
 
 Dumpster Diving is a platform where we explore our love (and very often obsessions) with questions filtering culture through a fashion lens.
