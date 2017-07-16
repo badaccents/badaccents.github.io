@@ -340,7 +340,8 @@ section.services {
 
 .dd-intro {
     width: 100%;
-    margin: 50px 0;
+    margin-top: 50px;
+    margin-bottom: 30px;
     padding: 50px 0;
     color: #fff;
     font-size: 20px;
@@ -366,6 +367,16 @@ section.services {
     color: #fff;
     background-color: rgba(0, 0, 0, 0.3);
     border-color: #fff;
+}
+
+.dd-posts h2 {
+    font-size: 18px;
+}
+
+@media(min-width:767px) {
+    .dd-posts h2 {
+        font-size: 25px;
+    }
 }
 
 .dd-posts h3 {
