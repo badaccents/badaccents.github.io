@@ -5,6 +5,9 @@ description: "A brand thinking studio built with people speaking many languages 
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 permalink: pretty
 excerpt_separator: <!--more-->
 future: true
