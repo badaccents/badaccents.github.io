@@ -4,7 +4,7 @@ layout: post
 title:  "Amateur Scenuis Preface"
 subtitle: "I say ya kill your heroes and fly, fly, baby don't cry"
 categories: dumpster-diving amateur-scenuis
-tags: rsemiotics social-science humanities
+tags: semiotics social-science humanities
 img-small: amateur-scenuis/amateur-scenuis-intro-small.jpg
 img-large: amateur-scenuis/amateur-scenuis-intro-big.jpg
 
