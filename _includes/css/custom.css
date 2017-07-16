@@ -351,7 +351,7 @@ section.services {
     background-image: url(/img/dd/dd-intro.jpg);
     background-repeat: no-repeat;
     background-position-x: center;
-    background-attachment: fixed;
+    
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -362,6 +362,7 @@ section.services {
     .dd-intro {
         margin-top: 150px;
         padding: 150px 0;
+        background-attachment: fixed;
     }
 }
 
