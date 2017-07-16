@@ -65,7 +65,9 @@ a:focus {
 }
 
 .navbar-custom {
-    font-size: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 19px;
     margin-bottom: 0;
     background-color: #f7f4ef;
     font-weight: 900;
@@ -86,8 +88,8 @@ a:focus {
 }
 
 .navbar-custom a {
-    padding-left: 7px;
-    padding-right: 7px;
+    padding-left: 3px;
+    padding-right: 3px;
 }
 
 .navbar-custom a:hover,
