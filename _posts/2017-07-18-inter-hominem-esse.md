@@ -5,8 +5,8 @@ title:  "Inter Hominem Esse"
 subtitle: "Among men, to between humans"
 categories: dumpster-diving pathological-empathy
 tags: tribes subcultures persona
-img-small: pathological-empathy-preface-small.jpg
-img-large: pathological-empathy-preface-big.jpg
+img-small: inter-hominem-esse-small.jpg
+img-large: inter-hominem-esse-big.jpg
 
 ready: ture
 ---
