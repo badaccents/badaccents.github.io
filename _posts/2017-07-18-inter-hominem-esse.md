@@ -11,7 +11,7 @@ img-large: pathological-empathy/inter-hominem-esse-big.jpg
 ready: false
 ---
 
-How many times have you heard the term “community” in the past couple of years?
+How many times have you heard the term “community” in the past couple of years? :bowtie:
 <!--more-->
 If you work or are interested in the fields of marketing and branding our bet is that you have heard it plenty! The term started trending on a mass scale alongside the explosion of social media as a valuable touch point for brands, if not the most obsessed over, and communities as a quantifiable value closely linked to business objectives. However, if you are here looking for an explanation similar to those given to you by one of the common online platforms out there, then we would like to raise the Bad Accents flag: THIS IS NOT FOR YOU! 
 
