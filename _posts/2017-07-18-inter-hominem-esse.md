@@ -2,11 +2,11 @@
 layout: post
 
 title:  "Inter Hominem Esse"
-subtitle: "Among men, to between humans"
+subtitle: "Among men, to be between humans"
 categories: dumpster-diving pathological-empathy
 tags: tribes subcultures persona
-img-small: inter-hominem-esse-small.jpg
-img-large: inter-hominem-esse-big.jpg
+img-small: pathological-empathy/inter-hominem-esse-small.jpg
+img-large: pathological-empathy/inter-hominem-esse-big.jpg
 
 ready: false
 ---
