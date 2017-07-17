@@ -8,7 +8,7 @@ tags: tribes subcultures persona
 img-small: inter-hominem-esse-small.jpg
 img-large: inter-hominem-esse-big.jpg
 
-ready: ture
+ready: false
 ---
 
 How many times have you heard the term “community” in the past couple of years?
