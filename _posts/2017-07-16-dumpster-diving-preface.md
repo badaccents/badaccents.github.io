@@ -11,7 +11,7 @@ img-large: dumpster-diving-preface-big.jpg
 ready: true
 ---
 
-Dumpster Diving is a platform where we explore our love (and very often obsessions) with questions filtering culture through a fashion lens.
+Dumpster Diving is a platform where we explore our love (and very often obsession) for culture by questioning and filtering it  through a fashion lens.
 <!--more-->
 We dive into a search to prove, clarify, or confine common sense and set ideals to build a deeper awareness of the world in which we live.     
 
