@@ -8,7 +8,7 @@ tags: tribes subcultures persona
 img-small: pathological-empathy-preface-small.jpg
 img-large: pathological-empathy-preface-big.jpg
 
-ready: false
+ready: ture
 ---
 
 How many times have you heard the term “community” in the past couple of years?
