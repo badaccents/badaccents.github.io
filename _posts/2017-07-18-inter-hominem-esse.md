@@ -8,7 +8,7 @@ tags: tribes subcultures persona
 img-small: pathological-empathy/inter-hominem-esse-small.jpg
 img-large: pathological-empathy/inter-hominem-esse-big.jpg
 
-ready: false
+ready: true
 ---
 
 How many times have you heard the term “community” in the past couple of years?
