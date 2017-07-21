@@ -1,13 +1,13 @@
 layout: post
 
 title:  "Who am I, and if so how many?"
-subtitle: "Beware: High risk of potential vulnerability"
+subtitle: "Beware High risk of potential vulnerability"
 categories: dumpster-diving amateur-scenuis
 tags: truth intellectual paralysis
 img-small: amateur-scenuis/who-am-i-and-if-so-how-many-small.jpg
 img-large: amateur-scenuis/who-am-i-and-if-so-how-many-big.jpg
 
-ready: false
+ready: true
 ---
 
 Historical Overdosing – to live in a period when too much seems to happen. Major symptoms include addiction to newspapers, magazines, and TV news broadcasts”
@@ -42,3 +42,4 @@ This phenomenon was coined by the English composer Brian Eno as the Scenius- the
 It is this realisation that a sense of peace with the genius can be reached. Following the journeys of idols, contemplating their ideas, figuring out how to feel about them, tracking their heroes, killing them, and finally repeat. Equipping oneself with this framework, the whole relationship shifts from a passive to an active one. What might have seemed as near impossibility, could prove to be, in many cases, a failure of imagination. This knowledge mining, comparison, analysis, and filtering is a critical practice for all creatives. It allows facing the fear of answering questions such as why does an idea matter if it was thought through before? How much of it is mine, and how much of it is pure plagiarism? Am I capable of original thought? How can I create anything when I have Camu, Barth, or Russell sitting on my bookshelf? 
 
 The answers might not be as assuring as we would wish them to be. The take remains that it is this exact state of raw enthusiasm and openness to potential vulnerability is what drove your heroes in the first place. The substantiality of their work and legacy is the result of rigorous thinking and unstoppable curiosity about the world they lived in. 
+
