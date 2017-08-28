@@ -153,7 +153,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -218,7 +218,7 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -235,7 +235,7 @@ a:focus {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -281,9 +281,9 @@ a:focus {
 }
 
 .process-header {
-    display: flex; 
-    align-items: baseline; 
-    flex-direction: row; 
+    display: flex;
+    align-items: baseline;
+    flex-direction: row;
     flex-wrap: nowrap;
 }
 
@@ -323,7 +323,6 @@ section.services {
 }
 
 .services h3 {
-    color: #ff3333;
     font-family: 'Covered By Your Grace', cursive;
     margin: 0 0 5px;
     font-weight: 700;
@@ -351,7 +350,7 @@ section.services {
     background-image: url(/img/dd/dd-intro.jpg);
     background-repeat: no-repeat;
     background-position-x: center;
-    
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
