@@ -1,9 +1,9 @@
 ---
 layout: post
 
-title:  "Amateur Scenuis Preface"
+title:  "Amateur Scenius Preface"
 subtitle: "I say ya kill your heroes and fly, fly, baby don't cry"
-categories: dumpster-diving amateur-scenuis
+categories: dumpster-diving amateur-scenius
 tags: semiotics social-science humanities
 img-small: amateur-scenuis/amateur-scenuis-intro-small.jpg
 img-large: amateur-scenuis/amateur-scenuis-intro-big.jpg
@@ -15,7 +15,7 @@ The fashion industry is vastly linked with fast consumable vanities, often analy
 <!--more-->
 There is an array of historians, sociologists, anthropologists, linguists, and even psychoanalyst who dedicated a substantial part of their scholarly research to analysing humanity through a fashion lense.
 
-Ronald Barth, for example, examined fashion from a linguistic viewpoint and uncovered in the process a system of meaning through semantic analysis. Yuniya Kawamura built her academic career to position Fashion as a social science by proposing that fashion is a symbolic cultural product and is merely about the self, challenging the common belief of it relating only to clothes. She then proceeds to prove the industry as a system with a clear structure that builds designer names and consequently position the cities they are linked to as fashion capitals such as Milan and New York. 
+Ronald Barth, for example, examined fashion from a linguistic viewpoint and uncovered in the process a system of meaning through semantic analysis. Yuniya Kawamura built her academic career to position Fashion as a social science by proposing that fashion is a symbolic cultural product and is merely about the self, challenging the common belief of it relating only to clothes. She then proceeds to prove the industry as a system with a clear structure that builds designer names and consequently position the cities they are linked to as fashion capitals such as Milan and New York.
 
 Moving to the topic of the self, Elizabeth Wilson explored the social and structural history of fashion and its ties to modernity through case studies of various subcultures and the role of fashion in forming the identities of their followers. While Alison Bancroft evaluated pivotal moments in twentieth-century fashion by applying psychoanalytic theory and sharing eye-opening insights on the ways people relate to concepts such as the body, femininity and the self.      
 
@@ -23,7 +23,7 @@ These are just a few examples of the different forms in which fashion can be exa
 
 Another element that needs addressing is the mere snobbery in the Design field where fashion is treated as a second-degree area. It is not necessary to have a degree in Fashion Design to realise that building the structure of a garment, is as intricate as an architectural project, it only takes looking at the work of Gianfranco Ferre or Cristobal Balenciaga to see how similar the construction process is. Or how the preliminary research phase is identical to almost any other design field. The difference, however, and what makes it more valuable in our opinion, is that most other design objects are static. While fashion is ever evolving with each body, it endorses. It is the closest design object that a person holds to her body keeping the boundaries of the self and the outside world ubiquitous and blurry.    
 
-Bad Accents mission is to build cultural meanings by revealing the essence of brands and uncovering what truly makes us relate and prefer one over the other. To reach the essence, we look at the industry from a humanistic point of view, and we rely on research frameworks that are typical to social sciences and the design field. In the process, and through Amateur Scenuis, we would share the insights that we uncover during our research to shed light on the essential truth of fashion and its central role in understanding history, building cultures and the construction of the self. 
+Bad Accents mission is to build cultural meanings by revealing the essence of brands and uncovering what truly makes us relate and prefer one over the other. To reach the essence, we look at the industry from a humanistic point of view, and we rely on research frameworks that are typical to social sciences and the design field. In the process, and through Amateur Scenuis, we would share the insights that we uncover during our research to shed light on the essential truth of fashion and its central role in understanding history, building cultures and the construction of the self.
 
 From an emotional viewpoint, This raw enthusiasm where ghosts of past heroes are revisited and shared with like-minded knowledge gatherers is an invitation to embrace the ugly first draft with an anti-perfectionism mindset. A platform that faces the fear of sounding banal, elitist and, worst of all, opportunistic. It is built with ecstatic intuition and fine frenzy. No hero goes unnamed, each concept is contemplated, and all idols become a bit less mysterious every step of the way. This amateur scenius is built on the believe that you need to be interested in order to be interesting. And that the value of knowledge rests only in sharing.
 
@@ -35,6 +35,6 @@ Well he said one thing, before I graduate
 I say ya kill your heroes and fly, fly, baby don't cry.
 No need to worry 'cause, everybody will die.
 Every day we just go, go, baby don't go.
-Don't you worry we love you more than you know. 
+Don't you worry we love you more than you know.
 
 **\- Awolnation // kill your heroes // Megalithic Symphony**
