@@ -13,7 +13,7 @@ ready: true
 
 The sixties is a decade in which culture struck the masses in contrast to its former conservative, high brow, and elitist old ways.
 <!--more-->
-For the first time in the 20th Century, British culture and specifically London, not Paris, became the centre of the fashion and the music world. The sixties is a decade in which culture struck the masses in contrast to its former conservative, high brow, and elitist old ways. For the first time in the 20th Century, British culture and specifically London, not Paris, became the centre of the fashion and the music world.
+For the first time in the 20th Century, British culture and specifically London, not Paris, became the centre of the fashion and the music world. The sixties is a decade in which culture struck the masses in contrast to its former conservative, high brow, and elitist old ways. 
 
 Young Brits' frustration with the social hierarchy and their sincere desire to diminish class barriers are often listed as the primary drive to the movement. The British cultural invasion swept through all parts of life with the contraception pill bringing sexual freedom, homosexuality becoming legal, and rigid media censorship relaxing leading to the birth of British New Wave. These developments translate into new ways of art, music, film, literature, theatre, and what concerns us here: Fashion.
 
