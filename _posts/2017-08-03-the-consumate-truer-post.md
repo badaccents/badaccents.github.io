@@ -3,7 +3,7 @@ layout: post
 
 title:  "THE CONSUMMATE TRUER"
 subtitle: "Promise To Tell The Truth, The Whole Truth and Nothing But The Truth"
-categories: dumpster-diving amateur-scenius
+categories: dumpster-diving pathological-empathy
 tags: truth overload persona-profile
 img-small: pathological-empathy/persona/consummate-truer/small.jpg
 img-large: pathological-empathy/persona/consummate-truer/big.png
