@@ -26,7 +26,7 @@ window.addEventListener("load", function(){
         "background": "#000"
       },
       "button": {
-        "background": "#f1d600"
+        "background": "#fffdf2"
       }
     }
 })});
