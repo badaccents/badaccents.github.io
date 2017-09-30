@@ -5,8 +5,9 @@
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
     <link rel="shortcut icon" type="image/png" href="/img/favicon.png"/>
+
+    {% if page.excerpt %}<meta name="og:description" content="{{ page.excerpt }}">{% endif %}
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl }}">
@@ -22,5 +23,4 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
 </head>
