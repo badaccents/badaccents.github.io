@@ -3,7 +3,7 @@ layout: post
 
 title:  "Bla"
 subtitle: "Bla"
-categories: dumpster-diving amateur-scenuis
+categories: dumpster-diving amateur-scenius
 tags: truth intellectual paralysis
 img-small: amateur-scenuis/who-am-i-and-if-so-how-many-small.jpg
 img-large: amateur-scenuis/who-am-i-and-if-so-how-many-big.jpg
@@ -24,7 +24,7 @@ Centered image with source:
 <p class="center-block" style="width:500px;max-width:100%;">
   <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
   <br />
-  Source: Vogue paris 2016
+  <span class="credits">Source: Vogue paris 2016</span>
 </p>
 
 Full width image:
@@ -32,7 +32,7 @@ Full width image:
 <p style="width:100%;">
   <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
   <br />
-  Source: Vogue paris 2016
+  <span class="credits">Source: Vogue paris 2016</span>
 </p>
 
 Left aligned image:
@@ -40,7 +40,7 @@ Left aligned image:
 <p style="width:400px;max-width:100%;">
   <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
   <br />
-  Source: Vogue paris 2016
+  <span class="credits">Source: Vogue paris 2016</span>
 </p>
 
 Two columns:
@@ -67,6 +67,10 @@ Three columns:
     <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
   </p>
 </div>
+
+A link:
+
+This is a [link to Google!](http://google.com). You are welcome!
 
 Video:
 

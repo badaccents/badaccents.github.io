@@ -412,6 +412,10 @@ section.services {
     margin-bottom: 5px;
 }
 
+.dd-post a {
+    text-decoration: underline;
+}
+
 .dd-post .dd-post-img-large {
     width: 100%;
     margin-top: 10px;
@@ -422,7 +426,9 @@ section.services {
     margin-top: 20px;
 }
 
-
+.dd-post .credits {
+  font-size: 10px;
+}
 
 
 .content-section {
@@ -467,6 +473,11 @@ footer {
 
 footer p {
     margin: 0;
+}
+
+footer .social i {
+  font-size: 20px;
+  margin: 10px;
 }
 
 ::-moz-selection {
