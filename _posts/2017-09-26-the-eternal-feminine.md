@@ -36,16 +36,18 @@ Interestingly, though, their reliance on and commitment to group dynamics reveal
 Their appearance, while could seem outdated at first glance, is very much calculated. Each feature is studied to perfection from the hair and makeup to the outfit. A look that is so intact and perfected that they are never seen without their veil of beauty.
 “Clothes are gorgeous, we are beautiful, and we look impeccable, and this makes us feel feminine and elegant,” said one of the eternal feminine.
 
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/2.jpg" width="100%">
-  <br />
-  Source: Photograph by William Eggleston
-</p>
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/3.jpg" width="100%">
-<br />
-Source: People in Cars by Mike Mandel
-</p>
+<div class="row">
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/2.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Photograph by William Eggleston</span>
+  </p>
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/3.jpg" width="100%">
+    <br />
+    <span class="credits">Source: People in Cars by Mike Mandel</span>
+  </p>
+</div>
 
 But how do they deal with the fashion industry’s denial of their existence? Well with old-fashioned elegance encompassing weekly visits to their hairdressers, a serious amount of talc, and the help of their best friend: the dressmaker. They have created a new business model for haute couture with bespoke clothes with an affordable price point. Talk about building a personal style, sustainability through taking care of their clothes and most likely a dressoire covered with Shalimar, L'Oreal, and Estee Lauder.
 
@@ -56,16 +58,19 @@ These ladies vibrated with elegance, accomplishment and security. They filled th
 >*“First, the apparel industry should provide fashionable apparel products to the growing number of older women. Second, the industry needs to provide apparel with that response to the physical changes of the ageing body and increasing vulnerability” Claire Lacoste-Kapstein on Aging and Demographics: Implications For The Fashion Industry.*
 
 Regardless of the general tendency of the fashion industry in ignoring that persona profile, there still some cases that merit mentioning. One of the most prominent and exciting ones is Advanced Style by photographer Ari Seth Cohen. It is a documentary project that eventually turned into a book, blog and a documentary film. Cohen follows fashion icons such as Iris Apfel, Ilona Royce and different other senior women that embrace fashion in spite of age.
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/4.jpg" width="100%">
-  <br />
-  Source: Ilona Royce by Ari Seth Cohen for his Advanced Style Blog.
-</p>
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/5.jpg" width="100%">
-<br />
-Source: Photograph by Ari Seth Cohen for his Advanced Style Blog.
-</p>
+
+<div class="row">
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/4.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Ilona Royce by Ari Seth Cohen for his Advanced Style Blog.</span>
+  </p>
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/5.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Photograph by Ari Seth Cohen for his Advanced Style Blog.</span>
+  </p>
+</div>
 
 >*“Fashion is strongly—perhaps inherently— youth-oriented. It is beautiful, young bodies that designers aspire to dress and that are featured throughout the fashion system (Fine and Leopold 1993). It presents an idealised world in which age does not feature, or where it represents a dereliction, a corruption of the vision, falling or a failure, something to be excluded and ignored. Aging here takes on the features of Julia Kristeva’s (1982) objection, something to be feared, repelled, cast into darkness.”— Julia Twigg in Fashion, the Body and Age.*
 
@@ -73,16 +78,18 @@ On the other hand, some fashion brands like Fanny Karst www.fannykarst.com are e
 
 You might wonder like us about the lack of interest in building fashion brands around an age group that is almost entirely excluded? That it is even naive, if not absurd, to ignore such a huge market share of financially independent and style savvy women. Well, it seems that businesses are finally turning their heads into the right direction. Kimberly Anne Sawchuk, a coder in a marketing research firm, confirms that in the recent history and especially within the marketing scene, advertisers are attending seminars for advice on how to talk to the new seniors. Turning in the process what was assumed obsolete and without value is turning into gold.
 
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/6.jpg" width="100%">
-  <br />
-  Source: Vetements Fall 2017.
-</p>
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/8.jpg" width="100%">
-<br />
-Source: Gucci Resort campaign 2018.
-</p>
+<div class="row">
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/6.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Vetements Fall 2017.</span>
+  </p>
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-eternal-feminine/8.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Gucci Resort campaign 2018.</span>
+  </p>
+</div>
 
 So next time you pass by a senior woman perfectly dressed and showered with confidence and ease, remember that she is neither trying to hide nor to grab your attention. She couldn’t care less about your opinion. We hope that you keep an open view on this breathtaking way of handling oneself, and use her as inspiration for our inevitably later stage in life.
 # Shout out to this gorgeousness!

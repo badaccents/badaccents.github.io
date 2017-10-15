@@ -48,9 +48,13 @@ Two columns:
 <div class="row">
   <p class="col-sm-6">
     <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Gucci Resort campaign 2018.</span>
   </p>
   <p class="col-sm-6">
     <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Gucci Resort campaign 2018.</span>
   </p>
 </div>
 
@@ -59,18 +63,20 @@ Three columns:
 <div class="row">
   <p class="col-sm-4">
     <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Gucci Resort campaign 2018.</span>
   </p>
   <p class="col-sm-4">
     <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Gucci Resort campaign 2018.</span>
   </p>
   <p class="col-sm-4">
     <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Gucci Resort campaign 2018.</span>
   </p>
 </div>
-
-A link:
-
-This is a [link to Google!](http://google.com). You are welcome!
 
 Video:
 
@@ -92,3 +98,9 @@ If you'd like to quote someone, use the > character before the line:
 
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > -- Captain Janeway
+
+A link:
+
+This is a <a href="http://google.com" target="_blank">link to Google</a>
+
+**fin. . .**

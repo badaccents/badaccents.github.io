@@ -38,16 +38,18 @@ The narrative is central for this persona. These Picassos are coming to rule the
 
 **The New Creative Thinkers** are relentlessly striving to use the digital wave and interactive digital imaginary in a search for inspiration. Their sources of inspiration are tightly linked to pop culture and the way it is consumed.
 
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/2.jpg" width="100%">
-  <br />
-  <span class="credits">Source: Jig Saw Punt Rrriot Girl</span>
-</p>
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/3.jpg" width="100%">
-<br />
-<span class="credits">Source: Dom Sebastian</span>
-</p>
+<div class="row">
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/2.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Jig Saw Punt Rrriot Girl</span>
+  </p>
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/3.jpg" width="100%">
+    <br />
+    <span class="credits">Source: Dom Sebastian</span>
+  </p>
+</div>
 
 They are on an endless self-expression mode with a leading insight: “There is no finish line.” As consumers, they are continually creating and hunting for inspiration. Their tools are their digital devices. For instance, Deloitte's study found a shift in consuming behaviour related to them as they are 30% less likely to use mobile devices for in-store price comparisons than they did in 2014. The report also proposes that this may indicate that consumers are using digital more for inspiration and idea generation earlier in their shopping process, and not simply as a price comparison vehicle.
 
@@ -78,16 +80,16 @@ We wonder how a conservative art critic such as Philosopher Roger Scruton would 
 </p>
 
 <div class="row">
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/7.jpeg" width="100%">
-  <br />
-  <span class="credits">Source: Polly Nor</span>
-</p>
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/10.jpeg" width="100%">
-<br />
-<span class="credits">Source: John Yuyi</span>
-</p>
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/7.jpeg" width="100%">
+    <br />
+    <span class="credits">Source: Polly Nor</span>
+  </p>
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/10.jpeg" width="100%">
+    <br />
+    <span class="credits">Source: John Yuyi</span>
+  </p>
 </div>
 
 <p style="width:100%;">
@@ -97,16 +99,16 @@ We wonder how a conservative art critic such as Philosopher Roger Scruton would 
 </p>
 
 <div class="row">
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/11.jpeg" width="100%">
-  <br />
-  <span class="credits">Source: Douglas Coupland</span>
-</p>
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/12.jpeg" width="100%">
-<br />
-<span class="credits">Source: Gen X enthusiastic like Douglas Coupland</span>
-</p>
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/11.jpeg" width="100%">
+    <br />
+    <span class="credits">Source: Douglas Coupland</span>
+  </p>
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/12.jpeg" width="100%">
+    <br />
+    <span class="credits">Source: Gen X enthusiastic like Douglas Coupland</span>
+  </p>
 </div>
 
 <p class="embed-responsive embed-responsive-16by9">
@@ -120,16 +122,16 @@ We wonder how a conservative art critic such as Philosopher Roger Scruton would 
 </p>
 
 <div class="row">
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/14.jpeg" width="100%">
-  <br />
-  <span class="credits">Source: Dom Sebastian</span>
-</p>
-<p class="col-sm-6">
-  <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/15.png" width="100%">
-<br />
-<span class="credits">Source: New contemporary digital artist Dom Sebastian and Tumblr heroine  Arvida Byström</span>
-</p>
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/14.jpeg" width="100%">
+    <br />
+    <span class="credits">Source: Dom Sebastian</span>
+  </p>
+  <p class="col-sm-6">
+    <img src="/img/dd/pathological-empathy/persona/the-new-creative-thinkers/15.png" width="100%">
+    <br />
+    <span class="credits">Source: New contemporary digital artist Dom Sebastian and Tumblr heroine  Arvida Byström</span>
+  </p>
 </div>
 
 <p class="embed-responsive embed-responsive-16by9">
