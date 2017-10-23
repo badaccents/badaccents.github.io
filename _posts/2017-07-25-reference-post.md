@@ -32,7 +32,9 @@ Full width image:
 <p style="width:100%;">
   <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
   <br />
-  <span class="credits">Source: Vogue paris 2016</span>
+  <span class="credits">
+    Source: Vogue paris 2016
+  </span>
 </p>
 
 Left aligned image:
@@ -64,17 +66,23 @@ Three columns:
   <p class="col-sm-4">
     <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
     <br />
-    <span class="credits">Source: Gucci Resort campaign 2018.</span>
+    <span class="credits">
+      Source: Gucci Resort campaign 2018.
+    </span>
   </p>
   <p class="col-sm-4">
     <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
     <br />
-    <span class="credits">Source: Gucci Resort campaign 2018.</span>
+    <span class="credits">
+      Source: Gucci Resort campaign 2018.
+    </span>
   </p>
   <p class="col-sm-4">
     <img src="/img/dd/pathological-empathy/tribe/gabbers/bitches-1.jpg" width="100%">
     <br />
-    <span class="credits">Source: Gucci Resort campaign 2018.</span>
+    <span class="credits">
+      Source: Gucci Resort campaign 2018.
+    </span>
   </p>
 </div>
 
