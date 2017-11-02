@@ -11,7 +11,7 @@ img-large: amateur-scenuis/italian-culture-unzipped/preface/big.jpeg
 ready: true
 ---
 
-As a foreigner in a new land, the more years pass, the more you understand the cultural context in which you are living. While integration comes in varying forms and can be entirely relative, at the end of the day, you cannot escape it even no matter how hard you try.
+As a foreigner in a new land, the more years pass, the more you understand the cultural context in which you are living. While integration comes in varying forms and can be entirely relative, at the end of the day, you cannot escape no matter how hard you try.
 <!--more-->
 Established by two non-Italians living in Italy, Bad Accents founders seem like a fitting testimonial. The point in which we met, Domus Academy, was the perfect starting point; a Design school in one of the world’s most prominent design hubs with an international fellowship. The Master courses held in English facilitated the learning experience and interaction within its community. Its Milan location, on the other hand, opened the door to an Italian way of living, seeing, and ultimately thinking.  
 
