@@ -62,13 +62,13 @@ Young fashion professionals need to focus more on real industry problems, think 
   <img src="/img/dd/amateur-scenuis/fashion-graduate-italia-2017/2.jpeg" width="100%">
   <br />
   <span class="credits">
-    Source: La Scuola che non c’è panel
+    Source: Domus Academy Students
   </span>
 </p>
 To have three days dedicated to Italian fashion education was a precious gift and a reminder of why we are here in the first place and why we do what we do.
-If you have lived away from home, you will realise that even after building a business, a family, and an intimate circle of friends, you could often live alienating moments. But here, we felt unexpectedly and effortlessly Italian, even if it was for a passing three days. You felt Italian because you are a member of the fashion system and you share with the community their dialect, ambition and dreams of an unimaginable future.
+If you have lived away from home, you might relate to the fact that even after building a business, a family, and an intimate circle of friends, you often live alienating moments. But here, even if it was for a passing three days, we felt unexpectedly and effortlessly Italian. You felt Italian because you are a member of a system that you share with its community a dialect, ambitions and dreams of an unimaginable future.
 
-At that fleeting moment, you could not care less about others’ ranking of your school. To you, your it is your home; full of contradictions, yet no one could compete with its place in your heart. While sitting to cheer for the young designers showing their collection on the runway, you felt that your school faculty is your family, its alumni are your siblings, its logo is your flag, and its address is your home address. And it hits you that for the rest of your life and whenever you are in a situation to be associated with it, you will consider all its heritage, values, and accomplishments as yours.
+At that fleeting moment, you could not care less about others’ ranking of your school. To you, your school is your home; full of contradictions, yet no one could compete with its place in your heart. While sitting to cheer for the young designers showing their collection on the runway, you felt that your school faculty is your family, its alumni are your siblings, its logo is your flag, and its address is your home address. And it hits you that for the rest of your life and whenever you are in a situation to be associated with it, you will consider all its heritage, values, and accomplishments as yours.
 
 That is why our schools matter. That is why you cannot put a price on education. That is precisely why the return on investment could not be measured with a passive generic survey. Because no data is ever able to pay justice to the sense of pride, belonging and emotional connection you feel to the home you chose, the family you select, and the last name that will stick to you forever.
 
