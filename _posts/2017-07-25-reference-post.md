@@ -112,3 +112,6 @@ A link:
 This is a <a href="http://google.com" target="_blank">link to Google</a>
 
 **fin. . .**
+**bold**
+*italic*
+## **bold heading**##
