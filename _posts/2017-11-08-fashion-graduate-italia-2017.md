@@ -57,10 +57,7 @@ On the whole, people are losing their appetite for fashion. In the USA, for the 
 **Maria Sole Pastori**
 Young fashion professionals need to focus more on real industry problems, think of fashion within a context and purpose by asking themselves: Why are we making fashion?
 
-## Words of wisdom##
-> Behind ‘made in Italy’ lays the possibility of narrating the entire Italian territory.> -- Alberto Cavalli
-
-# What we say#
+## What we say##
 <p style="width:100%;">
   <img src="/img/dd/amateur-scenuis/fashion-graduate-italia-2017/2.jpeg" width="100%">
   <br />
