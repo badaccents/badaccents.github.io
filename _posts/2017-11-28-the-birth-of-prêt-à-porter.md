@@ -5,8 +5,8 @@ title:  "THE BIRTH OF PRET A PORTER"
 subtitle: "We wore large hats to raise our spirits"
 categories: dumpster-diving dress-thinking
 tags: culture fashion history
-img-small: dress-thinking/the-birth-of-prêt-à-porter/small.jpeg
-img-large: dress-thinking/the-birth-of-prêt-à-porter/big.jpeg
+img-small: dress-thinking/the-birth-of-pret-a-porter/small.jpeg
+img-large: dress-thinking/the-birth-of-pret-a-porter/big.jpeg
 
 ready: true
 ---
@@ -21,7 +21,7 @@ The scholarly sources, however, reference the military and the War of 1812 in wh
 In parallel, country workers in the nineteenth century France had to abandon tailor-made suits as they could no longer sustain the tradition and their wives were incompetent to tailor domestically— a situation that eventually led to a simplified version of what they previously wore making it possible for manufacturers to mass-produce them.
 
 <p style="width:100%;">
-  <img src="/img/dd/dress-thinking/the-birth-of-prêt-à-porter/1-milice-de-new-york.jpeg" width="100%">
+  <img src="/img/dd/dress-thinking/the-birth-of-pret-a-porter/1-milice-de-new-york.jpeg" width="100%">
   <br />
   <span class="credits">
     Source: The 7th NY Dragoons, visible above were at the battle. The most likely uniform of the 680 NY militia is the uniform second from the left — War of 1812 Wargaming Blog
@@ -34,14 +34,14 @@ According to <a href="https://www.amazon.com/Histoires-mode-Didier-Grumbach/dp/2
 
 <div class="row">
   <p class="col-sm-6">
-    <img src="/img/dd/dress-thinking/the-birth-of-prêt-à-porter/2-belle-jardinière-fourrures.jpeg" width="100%">
+    <img src="/img/dd/dress-thinking/the-birth-of-pret-a-porter/2-belle-jardiniere-fourrures.jpeg" width="100%">
     <br />
     <span class="credits">
       Les Grands Magasins Parisiens
   </span>
   </p>
   <p class="col-sm-6">
-    <img src="/img/dd/dress-thinking/the-birth-of-prêt-à-porter/3-les-grands-magasins-parisiens.jpeg" width="100%">
+    <img src="/img/dd/dress-thinking/the-birth-of-pret-a-porter/3-les-grands-magasins-parisiens.jpeg" width="100%">
     <br />
     <span class="credits">
       Les Grands Magasins Parisiens
@@ -56,7 +56,7 @@ During those years, American Fashion houses formed an active apparel industry wi
 The real tangible growth of American Fashion and British for that matter arose during World War Two. As occupied Paris drove most French Couturiers to close their houses, American retailers and consumers alike abandoned Paris Fashion News and consequently their merchandise. The war also forced women back to the workforce giving way to trousers, shorter silhouettes, and innovation due to lack and restriction of materials. The change crystallized in the 1942 with <a href="http://www.bbc.co.uk/guides/zpjckqt" target="_blank">'utility' design</a> – standard material produced in large quantities along with severe 'austerity' rules controlling optimum conditions in which clothes are made with the least materials possible vanishing pleats and extra pockets and shortening skirts and dresses hemlines.
 
 <p style="width:100%;">
-  <img src="/img/dd/dress-thinking/the-birth-of-prêt-à-porter/4-utility-design-1942.jpeg" width="100%">
+  <img src="/img/dd/dress-thinking/the-birth-of-pret-a-porter/4-utility-design-1942.jpeg" width="100%">
   <br />
   <span class="credits">
     Source: Summers, Julie. “Did WW2 Introduce Designer Fashion to Our High Streets?” BBC IWonder, BBC, www.bbc.co.uk/guides/zpjckqt.
@@ -72,14 +72,14 @@ By 1947 retailers and designers in Paris, London, and the United States were fre
 
 <div class="row">
   <p class="col-sm-6">
-    <img src="/img/dd/dress-thinking/the-birth-of-prêt-à-porter/6-jeanne-lafaurie.jpeg" width="100%">
+    <img src="/img/dd/dress-thinking/the-birth-of-pret-a-porter/6-jeanne-lafaurie.jpeg" width="100%">
     <br />
     <span class="credits">
       Jeanne Lafaurie. Approx. 29” tall. Maryhill Museum of Art, Goldendale, Washington.
   </span>
   </p>
   <p class="col-sm-6">
-    <img src="/img/dd/dress-thinking/the-birth-of-prêt-à-porter/7-théâtre-de-la-mode.jpeg" width="100%">
+    <img src="/img/dd/dress-thinking/the-birth-of-pret-a-porter/7-theatre-de-la-mode.jpeg" width="100%">
     <br />
     <span class="credits">
       Théâtre De La Mode Mannequin with Draped Dress and Accessories, www.maryhillmuseum.org.
