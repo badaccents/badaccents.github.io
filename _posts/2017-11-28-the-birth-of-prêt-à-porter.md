@@ -13,6 +13,8 @@ ready: true
 
 Origins of Prêt-à-Porter or Ready-to-Wear is an urban legend. Some would attribute it to Yves Saint Laurent line and boutique Rive Gauche or Elsa Schiaparelli 1935 and her Place Vandome boutique.
 <!--more-->
+> *"A new Schiap era came into being with the place Vendome. The year 1935 was such a busy one for Schiap that she wonders how she got through. To start with there was the birth of the Boutique. The Schiap Boutique, the very first of its kind, has since been copied not only by all the great Paris couturiers but the idea has spread all over the world, especially in Italy. It became instantaneously famous because of the formula of 'ready to be taken away immediately'. There were useful and amusing gadgets afire with youth. there were evening sweaters, skirts, blouses, and accessories previously scorned by the haute couture. — Shiaparelli, Elsa. Shocking Life: The Autobiography of Elsa Schiaparelli (p. 65)*
+
 # Scenario Framing
 The scholarly sources, however, reference the military and the War of 1812 in which production advances and the difficulty of executing men tailoring, military uniforms were mass-produced.
 
