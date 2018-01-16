@@ -2,7 +2,7 @@
 layout: post
 
 title:  "THE NEW CREATIVE THINKERS"
-subtitle: " There is no finish line"
+subtitle: "There is no finish line"
 categories: dumpster-diving pathological-empathy
 tags: persona-profile post-internet new-aesthetic
 img-small: pathological-empathy/persona/the-new-creative-thinkers/small.jpg
